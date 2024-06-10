@@ -1,4 +1,4 @@
-// import css from "./Feedback.module.css";
+import css from "./Feedback.module.css";
 
 // const Feedback = ({ feedback, totalFeedback, positiveFeedback }) => {
 //   return (
@@ -12,4 +12,4 @@
 //   );
 // };
 
-// export default Feedback;
+export default Feedback;
